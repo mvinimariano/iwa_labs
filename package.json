@@ -19,9 +19,12 @@
   },
   "homepage": "https://github.com/mikhail-cct/iwa_labs#readme",
   "dependencies": {
-    "axios": "^0.26.0",
+    "del": "^6.0.0",
     "express": "^4.17.3",
+    "fs": "^0.0.1-security",
     "mongoose": "^6.2.8",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "multer": "^1.4.4",
+    "path": "^0.12.7"
   }
 }
